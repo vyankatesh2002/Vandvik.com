@@ -1,76 +1,35 @@
-# Vandvik.com
+﻿# Vandvik Web
 
-Vandvik is a futuristic web platform designed to represent the foundation of an AI-driven system and company vision. This project is built as a web interface to showcase ideas, structure, and development direction for the Vandvik ecosystem.
+Legacy frontend prototype from the early development phase of the Vandvik ecosystem.
 
----
+## Repository Status
 
-## 🚀 Project Overview
+This repository is preserved as an earlier Vandvik web prototype.
 
-Vandvik.com is a frontend web project that demonstrates:
+For current Vandvik AI development, refer to the main Vandvik AI project repository.
 
-- Company landing structure
-- UI layout for future AI systems
-- Branding concept of Vandvik
-- Static assets (images, styles, scripts)
+## Purpose
 
-This repository serves as the initial version of the Vandvik digital platform.
+- Preserve early product and frontend experiments
+- Document the evolution of the Vandvik product
+- Retain historical UI and implementation work
+- Serve as a reference for future redesigns
 
----
+## Technology
 
-## 📁 Project Structure
+- HTML
+- CSS
+- JavaScript
+- Responsive web development
 
----
+## Important
 
-## 🧠 Vision
+This repository is not the primary production Vandvik AI codebase.
 
-Vandvik is being developed as a long-term system focusing on:
+## Status
 
-- AI-based digital ecosystem
-- Smart automation tools
-- Future-ready web and AI integration
-- Scalable company platform
-
----
-
-## ⚙️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Static Assets
+Legacy / archived-development reference.
 
 ---
 
-## 📌 Status
-
-Initial commit completed.  
-This is the foundation version of the project.
-
-Future updates will include:
-
-- UI improvements
-- Backend integration
-- AI modules
-- Interactive features
-
----
-
-## 👤 Founder
-
-**Vyankatesh**
-
----
-
-## 📈 Future Goals
-
-- Transform Vandvik into a full AI-powered platform
-- Expand into web + mobile ecosystem
-- Build scalable SaaS products under Vandvik brand
-
----
-
-## 📜 License
-
-This project is currently under private development by the owner.
-
----
+Maintained for project history and engineering reference.
